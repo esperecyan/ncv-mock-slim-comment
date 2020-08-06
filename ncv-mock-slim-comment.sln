@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockSlimComment", "MockSlimComment\MockSlimComment.csproj", "{E8998847-D06E-4242-A44E-336A70E32B65}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{84BBB76B-37E4-4402-88F3-44D31E7A7BAA}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8998847-D06E-4242-A44E-336A70E32B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8998847-D06E-4242-A44E-336A70E32B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8998847-D06E-4242-A44E-336A70E32B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8998847-D06E-4242-A44E-336A70E32B65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76D46B2F-1254-479B-BF8E-26BECD1D3C8D}
+	EndGlobalSection
+EndGlobal
