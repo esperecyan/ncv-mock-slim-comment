@@ -14,6 +14,16 @@ NiconamaCommentViewerから通常コメントが正常に送信できなくな�
 [バーチャルキャスト]: https://virtualcast.jp/ "次元を超えて、なりたい自分になってコミュニケーション。バーチャルキャストは、そんな願望を叶えるVRライブ・コミュニケーションサービスです。"
 [ニコ生タイピング]: https://github.com/jz5/namatyping "ニコニコ生放送（http://live.nicovideo.jp/）で放送中のコメントを利用したタイピングゲームです。"
 
+開発を行う場合のフォルダ階層
+----------------------------
+- 親フォルダ
+	+ ncv-mock-slim-comment
+		* ncv-mock-slim-comment.sln
+	+ NCV
+		* Plugin.dll
+		* plugins
+			- MockSlimComment.dll ← 出力先
+
 ライセンス
 ---------
 当プラグインのライセンスは [Mozilla Public License Version 2.0] \(MPL-2.0) です。
